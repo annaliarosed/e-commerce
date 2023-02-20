@@ -32,7 +32,7 @@ Try it out live yourself here => https://e-commerce-nine-bice.vercel.app/
   - Would have made 'better' (more informative and better designed) states for loading, error and empty.
 - Would have made the shopping cart more complex and informative to the user.
 - Add animations to the card flipping to the description side and other animations.
-
+- Site is not mobile friendly currently, would fix this as well with more time.
 
 
 
